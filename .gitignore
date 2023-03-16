@@ -3,3 +3,4 @@ update/venv/
 venv/
 update/__pycache__/
 __pycache__/
+.DS_Store
